@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@500&display=swap');
+
+p{
+    color: white;
+    font-family: 'Fira Code', monospace;
+}
+
+body{
+    background-color: rgb(32, 32, 32);
+}
+
+h1{
+    color: white;
+    font-family: 'Fira Code', monospace;
+}
+
+h2{
+    color: white;
+    font-family: 'Fira Code', monospace;
+}
+
+h3{
+    color: white;
+    font-family: 'Fira Code', monospace;
+}
+
+
+ul {
+    color: white;
+    font-family: 'Fira Code', monospace;
+}
